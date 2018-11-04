@@ -1,0 +1,7 @@
+Delete the following files that are part of the comming soon page
+css
+fonts
+images
+js
+vendor
+index.html
